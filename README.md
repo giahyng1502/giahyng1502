@@ -1,6 +1,6 @@
 # Hello, everyone! 👋 I'm Hoàng Văn Hưng 
 
-![Profile View Count](https://komarev.com/ghpvc/?username=hungcy1502&color=blue)
+![Profile View Count](https://komarev.com/ghpvc/?username=giahyng1502&color=blue)
 
 ## 🖥️ I'm a FullStack Developer
 - 🌱 I'm an enthusiast of open-source projects  
@@ -21,4 +21,4 @@
 
 ## 📈 GitHub Stats  
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hungcy1502&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giahyng1502&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
